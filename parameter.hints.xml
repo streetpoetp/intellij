@@ -1,0 +1,15 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
+    <option id="java.enums" value="false" />
+    <option id="java.new.expr" value="false" />
+  </component>
+</application>
