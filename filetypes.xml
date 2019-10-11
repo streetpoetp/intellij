@@ -5,7 +5,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="ee" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="ee.txt" type="PLAIN_TEXT" />
       <mapping pattern="beanshell" type="PLAIN_TEXT" />
       <mapping pattern="jstack" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
