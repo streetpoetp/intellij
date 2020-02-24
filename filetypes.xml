@@ -13,6 +13,7 @@
       <mapping pattern="jstack" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="shell" type="PLAIN_TEXT" />
+      <mapping ext="fxhtml" type="PLAIN_TEXT" />
       <mapping ext="auto" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
