@@ -7,6 +7,7 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="ee" type="PLAIN_TEXT" />
       <mapping pattern="event_banner.json" type="PLAIN_TEXT" />
+      <mapping pattern="wrapper" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ee.txt" type="PLAIN_TEXT" />
       <mapping pattern="beanshell" type="PLAIN_TEXT" />
